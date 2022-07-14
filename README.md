@@ -7,7 +7,7 @@ These playbooks deploy a very basic implementation of WildFly Application Server
 
 Then run the playbook, like this:
 
-/*ansible-playbook -i hosts site.yml*/
+```ansible-playbook -i hosts site.yml```
 
 When the playbook run completes, you should be able to see the JBoss Application Server running on the ports you chose, on the target machines.
 
