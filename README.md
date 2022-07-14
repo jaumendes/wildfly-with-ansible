@@ -1,4 +1,4 @@
-#WildFly JBoss Deployment
+## WildFly JBoss Deployment ##
 
 Requires Ansible 1.2 or newer
 
